@@ -12,7 +12,6 @@
 ![XGBoost](https://img.shields.io/badge/ML-XGBoost-yellow?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-ff4b4b?style=flat-square)
 ![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square)
 
 </div>
 
@@ -314,13 +313,3 @@ docker-compose up --build
 | DevOps | Docker, GitHub Actions |
 
 ---
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-<h3 align="center">
-Built for Quantitative Finance · Behavioral Analytics · NLP Intelligence · Modern Data Engineering
-</h3>
